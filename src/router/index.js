@@ -9,6 +9,10 @@ import AboutUs from '../components/AboutUs.vue';
 import ContactUs from '../components/ContactUs.vue';
 import UserAccount from '../components/UserAccount.vue';
 import PaymentDelivery from '../components/PaymentDelivery.vue';
+import SearchPage from '../components/SearchPage.vue';
+import CartPage from '../components/CartPage.vue';
+import FavoritesPage from '../components/FavoritesPage.vue';
+
 
 const routes = [
   { path: '/', component: MainPage },
@@ -20,6 +24,9 @@ const routes = [
   { path: '/contact', component: ContactUs },
   { path: '/account', component: UserAccount },
   { path: '/payment-delivery', component: PaymentDelivery },
+  { path: '/searchPage', component: SearchPage },
+  { path: '/cart-page', component: CartPage },
+  { path: '/favorites-page', component: FavoritesPage },
   // ... остальные маршруты
 ];
 
