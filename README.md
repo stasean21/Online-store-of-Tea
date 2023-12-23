@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Создаю онлайн ресурс по примерному шаблону
+https://www.behance.net/gallery/186232211/TeaHouse-Online-store-of-Tea?tracking_source=search_projects&l=141
